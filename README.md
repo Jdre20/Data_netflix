@@ -1,6 +1,6 @@
 # Data_netflix
 Analisis de dataset netflix
 
-## Lenguajes utilizados 🛠️
+## Lenguaje utilizado 🛠️
 
-* Google Colab
+* Python
